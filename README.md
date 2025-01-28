@@ -1,7 +1,7 @@
 # JPMorgan Chase Excel Internship
 
 ## JPMorgan Chase & Co.'s Excel Skills on Forage Virtual Internship
-
+![jp morgan certificate png](https://github.com/saicharannetha/JPMorgan-Chase-Excel-Internship/blob/main/jp%20morgan%20certificate.png)
 ### Task 1: Excel Keyboard Shortcuts
 I learned key Excel shortcuts, practiced them in Excel, and attended a quiz to test my knowledge.
 
